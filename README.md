@@ -5,7 +5,7 @@ This project is to study the A* algorithm and how to apply it to the 8 puzzle so
 - [ ] solve
 - [x] possible_dir
 - [x] gen_state
-- [ ] h_score
+- [x] h_score
 - [ ] g_score
 - [x] show puzzle 
 - [x] zeroIndx
